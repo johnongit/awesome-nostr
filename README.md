@@ -94,12 +94,13 @@ them:
 - [nostr.com](https://nostr.com/) - a nostr web gateway for viewing events by their ID
 - [nostrandom.netlify.app](https://nostrandom.netlify.app/) - generate publish-able Nostr event with random keys
 - [nashboard](https://nashboard.netlify.app/) - a Nostr network dashboard with network statistics
-- [nostr army knife](https://nostr-army-knife.netlify.app/) - nostr army knife by fiatjaf
+- [nostr army knife](https://nostr-army-knife.netlify.app/) - nostr army knife by fiatjafhttps://github.com/grunch/rana
 - [joinstr](https://github.com/1440000bytes/joinstr) - coinjoin implementation using nostr
 - [smtp nostr gateway ](https://github.com/Cameri/smtp-nostr-gateway) - a bridge that forwards emails to pubkeys as encrypted direct messages
 - [ndxstr](https://github.com/ArcadeCity/ndxstr) - nostr's layer 2 indexing nodes, with more advanced querying capability than currently supported by relays
 - [nostrillery](https://github.com/Cameri/nostrillery) - a tool for running performance tests against Nostr relays
 - [nostr-terminal](https://github.com/cmdruid/nostr-terminal) - SSH-like access to your machine via web terminal, powered by Nostr.
+- [rana](https://github.com/grunch/rana) - Nostr mining public key tool with multi threading
 
 ## Community
 Outside of nostr itself, you find the community on:
